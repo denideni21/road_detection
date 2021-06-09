@@ -1,0 +1,12 @@
+numpy>=1.19.5
+tensorflow>=2.5.0rc1
+Pillow>=8.2.0
+tqdm>=4.60.0
+matplotlib>=3.4.1
+opencv-python>=4.5.1.48
+pandas>=1.2.4
+adjustText>=0.7.3
+scipy>=1.6.2
+Augmentor>=0.2.8
+focal-loss>=0.0.6
+silence-tensorflow>=1.1.1
