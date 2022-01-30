@@ -7,8 +7,8 @@ https://drive.google.com/drive/folders/1L1yn4k5KosWot9qp4G0eUxdV7neYoGGK?usp=sha
 
 There are three .zip files in the shared Google Drive repository:
 
-	•  KITTI_dataset.zip - This file contains all the images required for the training and evaluationof networks.
+	•  KITTI_dataset.zip - This file contains all the images required for the training and evaluation of networks.
 	•  pretrained_models.zip - This archive includes the saved 'U-NET TF v3' model.
-	•  source_code.zip - Extracting this file provides all source code Python files and the configuration files.
+	•  source_code.zip - (Update: all source files are already in this Git repo, so this file is locked) Extracting this file provides all source code Python files and the configuration files.
 
 Instructions on how to set up the project directory and how to execute the software fragments are provided both in the User Manual and the Maintenance Manual.
