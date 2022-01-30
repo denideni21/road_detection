@@ -3,7 +3,7 @@ This project implements a road detection application sequence that can be used t
 
 All the data required to run and test this project can be downloaded from:
 
-https://drive.google.com/file/d/1LDmJLhbVivEzml612HMJxDr4GdfCfPtR/view?usp=sharing
+https://drive.google.com/drive/folders/1L1yn4k5KosWot9qp4G0eUxdV7neYoGGK?usp=sharing
 
 There are three .zip files in the shared Google Drive repository:
 
